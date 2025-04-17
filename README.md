@@ -1,4 +1,4 @@
-# basecase
+# Basecase
 CS Discrete Structures Resources
 
 
